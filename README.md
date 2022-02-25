@@ -52,6 +52,7 @@ This circuit can be used in full adders and half adders. It is also used in pari
 Here the red colour wave represents source A, violet colour wave represents source B and green colour wave represents the output.
 
 ## Netlist in Synopsys
+```
 1   *  Generated for: PrimeSim
 2   *  Design library name: cp_lib1
 3   *  Design cell name: cp_xor_tb
@@ -120,7 +121,7 @@ Here the red colour wave represents source A, violet colour wave represents sour
 66  
 67  .end
 68  
-
+```
 
 
 
