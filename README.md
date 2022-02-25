@@ -35,6 +35,13 @@ This circuit can be used in full adders and half adders. It is also used in pari
 ## Schematic in Synopsys
 ![image](https://raw.githubusercontent.com/pranavprabhu01/XOR_Logic_Gate_IITH_Hackathon/main/Images/schematic.png)
 
+## Symbol in Synopsys
+![image](https://raw.githubusercontent.com/pranavprabhu01/XOR_Logic_Gate_IITH_Hackathon/main/Images/symbol.png)
+
+## Testbench in Synopsys
+![image](https://raw.githubusercontent.com/pranavprabhu01/XOR_Logic_Gate_IITH_Hackathon/main/Images/tb_sch.png)
+
+
 
 
 
