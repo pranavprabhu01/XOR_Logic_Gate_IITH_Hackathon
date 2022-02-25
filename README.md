@@ -4,6 +4,7 @@ CMOS Implementation of XOR Logic gate using Synopsys Custom Compiler
 * [Introduction](#Introduction)
 * [Reference Circuit](#Reference-Circuit)
 * [Reference Waveform](#Reference-Waveform)
+* [Tools Used](#Tools-Used)
 * [Schematic in Synopsys](#Schematic-in-Synopsys)
 * [Symbol in Synopsys](#Symbol-in-Synopsys)
 * [Testbench in Synopsys](#Testbench-in-Synopsys)
@@ -22,6 +23,12 @@ This circuit can be used in full adders and half adders. It is also used in pari
 
 ## Reference Circuit
 ![image](https://raw.githubusercontent.com/pranavprabhu01/XOR_Logic_Gate_IITH_Hackathon/main/Images/sample_ckt.png)
+
+## Reference Waveform
+![image](https://raw.githubusercontent.com/pranavprabhu01/XOR_Logic_Gate_IITH_Hackathon/main/Images/sample_wave.png)
+
+## Tools Used
+
 
 
 
