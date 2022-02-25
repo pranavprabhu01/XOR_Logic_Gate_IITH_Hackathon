@@ -2,7 +2,7 @@
 CMOS Implementation of XOR Logic gate using Synopsys Custom Compiler
 ## Table of Contents
 * [Introduction](#Introduction)
-* [Reference Circuit](#Reference Circuit)
+* [Reference Circuit](#Reference-Circuit)
 * [Reference Waveform](#Reference Waveform)
 * [Schematic in Synopsys](#Schematic in Synopsys)
 * [Symbol in Synopsys](#Symbol in Synopsys)
