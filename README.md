@@ -28,7 +28,7 @@ This circuit can be used in full adders and half adders. It is also used in pari
 ![image](https://raw.githubusercontent.com/pranavprabhu01/XOR_Logic_Gate_IITH_Hackathon/main/Images/sample_wave.png)
 
 ## Tools Used
-
+* Synopsis Custom Compiler
 
 
 
