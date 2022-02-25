@@ -123,6 +123,21 @@ Here the red colour wave represents source A, violet colour wave represents sour
 68  
 ```
 
+## Conclusion
+The XOR gate built using 28nm node technology was verified using Synopsys. The logic gate behaves as expected.
+
+## Acknowledgement
+1. Synopsys, Inc.
+2. Kunal Ghosh, Co-Founder, VLSI System Design(VSD) Corp. Pvt. Ltd.
+3. Chinmaya Panda, IIT Hyderabad
+4. Sameer S Durgoji, NIT Karnataka
+
+## References
+[1]N. Ahmad and R. Hasan, “Topology of 2 input subnanowatt XOR
+gate in 65nm CMOS technology”, p. 597, Sep. 2012.
+https://core.ac.uk/download/pdf/12008212.pdf ,IEEE-ICSE2012 Proc.
+
+
 
 
 
