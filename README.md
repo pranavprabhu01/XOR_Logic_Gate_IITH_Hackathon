@@ -21,6 +21,7 @@ As seen in reference circuit , when A=0 and B=0, transistor M1,M2 and M4 are on.
 This circuit can be used in full adders and half adders. It is also used in parity generator and checker. Two XOR gates connected in such a way that output of one XOR gate is the input of the other XOR gate, the circuit behaves as a three-bit generator.
 
 ## Reference Circuit
+![image](https://raw.githubusercontent.com/pranavprabhu01/XOR_Logic_Gate_IITH_Hackathon/main/Images/sample_ckt.png)
 
 
 
